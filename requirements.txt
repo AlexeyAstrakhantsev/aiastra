@@ -6,3 +6,6 @@ langchain
 langgraph
 python-dotenv
 logging
+telebot
+tavily-python
+langchain-deepseek
