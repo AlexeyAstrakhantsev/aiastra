@@ -1,0 +1,8 @@
+openai
+pygithub
+tweepy
+python-telegram-bot
+langchain
+langgraph
+python-dotenv
+logging
